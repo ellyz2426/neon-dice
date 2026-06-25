@@ -1,0 +1,570 @@
+{
+  "element": {
+    "sourceTag": "container",
+    "type": "custom",
+    "children": [
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "HOW TO PLAY"
+        ],
+        "properties": {
+          "fontsize": "18",
+          "fontweight": "bold",
+          "color": "#00ffff"
+        },
+        "dataUid": "uid-2"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Nonogram / Picross Puzzle"
+        ],
+        "properties": {
+          "fontsize": "11",
+          "color": "#aaddcc"
+        },
+        "dataUid": "uid-3"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Fill cells to reveal the hidden picture."
+        ],
+        "properties": {
+          "fontsize": "10",
+          "color": "#88aaaa"
+        },
+        "dataUid": "uid-4"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Row/column clues tell you how many"
+        ],
+        "properties": {
+          "fontsize": "10",
+          "color": "#88aaaa"
+        },
+        "dataUid": "uid-5"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "consecutive filled cells are in each line."
+        ],
+        "properties": {
+          "fontsize": "10",
+          "color": "#88aaaa"
+        },
+        "dataUid": "uid-6"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "\"2 3\" means a group of 2, gap, then 3."
+        ],
+        "properties": {
+          "fontsize": "10",
+          "color": "#88aaaa"
+        },
+        "dataUid": "uid-7"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "-- BROWSER --"
+        ],
+        "properties": {
+          "fontsize": "12",
+          "color": "#ffaa00",
+          "fontweight": "bold"
+        },
+        "dataUid": "uid-8"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Left Click: Fill cell"
+        ],
+        "properties": {
+          "fontsize": "10",
+          "color": "#88aaaa"
+        },
+        "dataUid": "uid-9"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Right Click: Mark X (empty)"
+        ],
+        "properties": {
+          "fontsize": "10",
+          "color": "#88aaaa"
+        },
+        "dataUid": "uid-10"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "H: Use hint"
+        ],
+        "properties": {
+          "fontsize": "10",
+          "color": "#88aaaa"
+        },
+        "dataUid": "uid-11"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "ESC/P: Pause"
+        ],
+        "properties": {
+          "fontsize": "10",
+          "color": "#88aaaa"
+        },
+        "dataUid": "uid-12"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "-- VR --"
+        ],
+        "properties": {
+          "fontsize": "12",
+          "color": "#ffaa00",
+          "fontweight": "bold"
+        },
+        "dataUid": "uid-13"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Trigger: Fill cell"
+        ],
+        "properties": {
+          "fontsize": "10",
+          "color": "#88aaaa"
+        },
+        "dataUid": "uid-14"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Grip: Mark X (empty)"
+        ],
+        "properties": {
+          "fontsize": "10",
+          "color": "#88aaaa"
+        },
+        "dataUid": "uid-15"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "B: Pause/Resume"
+        ],
+        "properties": {
+          "fontsize": "10",
+          "color": "#88aaaa"
+        },
+        "dataUid": "uid-16"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "-- MODES --"
+        ],
+        "properties": {
+          "fontsize": "12",
+          "color": "#ffaa00",
+          "fontweight": "bold"
+        },
+        "dataUid": "uid-17"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Campaign: Progress through puzzles"
+        ],
+        "properties": {
+          "fontsize": "9",
+          "color": "#88aaaa"
+        },
+        "dataUid": "uid-18"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Free Play: Choose any puzzle"
+        ],
+        "properties": {
+          "fontsize": "9",
+          "color": "#88aaaa"
+        },
+        "dataUid": "uid-19"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Timed: Beat the clock"
+        ],
+        "properties": {
+          "fontsize": "9",
+          "color": "#88aaaa"
+        },
+        "dataUid": "uid-20"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Zen: No mistakes, no pressure"
+        ],
+        "properties": {
+          "fontsize": "9",
+          "color": "#88aaaa"
+        },
+        "dataUid": "uid-21"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Daily: Same puzzle for everyone"
+        ],
+        "properties": {
+          "fontsize": "9",
+          "color": "#88aaaa"
+        },
+        "dataUid": "uid-22"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Practice: 5x5 grids with hints"
+        ],
+        "properties": {
+          "fontsize": "9",
+          "color": "#88aaaa"
+        },
+        "dataUid": "uid-23"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Speed Run: Fastest total time"
+        ],
+        "properties": {
+          "fontsize": "9",
+          "color": "#88aaaa"
+        },
+        "dataUid": "uid-24"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "BACK"
+        ],
+        "properties": {
+          "name": "btn-back-help",
+          "fontsize": "12",
+          "color": "#888888",
+          "backgroundcolor": "#1a1a1a",
+          "padding": "6",
+          "borderradius": "4",
+          "width": "120",
+          "textalign": "center",
+          "cursor": "pointer"
+        },
+        "dataUid": "uid-25"
+      }
+    ],
+    "properties": {
+      "flexdirection": "column",
+      "alignitems": "center",
+      "gap": "8",
+      "padding": "16",
+      "backgroundcolor": "#0a0a1a",
+      "borderradius": "8",
+      "width": "320"
+    },
+    "dataUid": "uid-1"
+  },
+  "classes": {},
+  "ranges": {
+    "uid-1": {
+      "start": {
+        "line": 0,
+        "column": 0
+      },
+      "end": {
+        "line": 25,
+        "column": 12
+      }
+    },
+    "uid-2": {
+      "start": {
+        "line": 1,
+        "column": 2
+      },
+      "end": {
+        "line": 1,
+        "column": 74
+      }
+    },
+    "uid-3": {
+      "start": {
+        "line": 2,
+        "column": 2
+      },
+      "end": {
+        "line": 2,
+        "column": 70
+      }
+    },
+    "uid-4": {
+      "start": {
+        "line": 3,
+        "column": 2
+      },
+      "end": {
+        "line": 3,
+        "column": 85
+      }
+    },
+    "uid-5": {
+      "start": {
+        "line": 4,
+        "column": 2
+      },
+      "end": {
+        "line": 4,
+        "column": 79
+      }
+    },
+    "uid-6": {
+      "start": {
+        "line": 5,
+        "column": 2
+      },
+      "end": {
+        "line": 5,
+        "column": 87
+      }
+    },
+    "uid-7": {
+      "start": {
+        "line": 6,
+        "column": 2
+      },
+      "end": {
+        "line": 6,
+        "column": 83
+      }
+    },
+    "uid-8": {
+      "start": {
+        "line": 7,
+        "column": 2
+      },
+      "end": {
+        "line": 7,
+        "column": 76
+      }
+    },
+    "uid-9": {
+      "start": {
+        "line": 8,
+        "column": 2
+      },
+      "end": {
+        "line": 8,
+        "column": 66
+      }
+    },
+    "uid-10": {
+      "start": {
+        "line": 9,
+        "column": 2
+      },
+      "end": {
+        "line": 9,
+        "column": 72
+      }
+    },
+    "uid-11": {
+      "start": {
+        "line": 10,
+        "column": 2
+      },
+      "end": {
+        "line": 10,
+        "column": 56
+      }
+    },
+    "uid-12": {
+      "start": {
+        "line": 11,
+        "column": 2
+      },
+      "end": {
+        "line": 11,
+        "column": 57
+      }
+    },
+    "uid-13": {
+      "start": {
+        "line": 12,
+        "column": 2
+      },
+      "end": {
+        "line": 12,
+        "column": 71
+      }
+    },
+    "uid-14": {
+      "start": {
+        "line": 13,
+        "column": 2
+      },
+      "end": {
+        "line": 13,
+        "column": 63
+      }
+    },
+    "uid-15": {
+      "start": {
+        "line": 14,
+        "column": 2
+      },
+      "end": {
+        "line": 14,
+        "column": 65
+      }
+    },
+    "uid-16": {
+      "start": {
+        "line": 15,
+        "column": 2
+      },
+      "end": {
+        "line": 15,
+        "column": 60
+      }
+    },
+    "uid-17": {
+      "start": {
+        "line": 16,
+        "column": 2
+      },
+      "end": {
+        "line": 16,
+        "column": 74
+      }
+    },
+    "uid-18": {
+      "start": {
+        "line": 17,
+        "column": 2
+      },
+      "end": {
+        "line": 17,
+        "column": 78
+      }
+    },
+    "uid-19": {
+      "start": {
+        "line": 18,
+        "column": 2
+      },
+      "end": {
+        "line": 18,
+        "column": 72
+      }
+    },
+    "uid-20": {
+      "start": {
+        "line": 19,
+        "column": 2
+      },
+      "end": {
+        "line": 19,
+        "column": 65
+      }
+    },
+    "uid-21": {
+      "start": {
+        "line": 20,
+        "column": 2
+      },
+      "end": {
+        "line": 20,
+        "column": 73
+      }
+    },
+    "uid-22": {
+      "start": {
+        "line": 21,
+        "column": 2
+      },
+      "end": {
+        "line": 21,
+        "column": 75
+      }
+    },
+    "uid-23": {
+      "start": {
+        "line": 22,
+        "column": 2
+      },
+      "end": {
+        "line": 22,
+        "column": 74
+      }
+    },
+    "uid-24": {
+      "start": {
+        "line": 23,
+        "column": 2
+      },
+      "end": {
+        "line": 23,
+        "column": 73
+      }
+    },
+    "uid-25": {
+      "start": {
+        "line": 24,
+        "column": 2
+      },
+      "end": {
+        "line": 24,
+        "column": 173
+      }
+    }
+  }
+}
