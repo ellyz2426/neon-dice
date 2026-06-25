@@ -1,0 +1,14 @@
+<container flexDirection="column" gap="4" padding="8" backgroundColor="#00000088" borderRadius="4">
+  <text fontSize="16" fontWeight="bold" color="#ff8800">DICE SKINS</text>
+  <container flexDirection="column" gap="3">
+    <text name="skin-1" fontSize="10" color="#00ffff" cursor="pointer" padding="2" borderWidth="1" borderColor="#00ffff" borderRadius="2">[*] Neon Cyan</text>
+    <text name="skin-2" fontSize="10" color="#ff4444" cursor="pointer" padding="2" borderWidth="1" borderColor="#333333" borderRadius="2">[ ] Solar Flare</text>
+    <text name="skin-3" fontSize="10" color="#ff00ff" cursor="pointer" padding="2" borderWidth="1" borderColor="#333333" borderRadius="2">[ ] Plasma Pink</text>
+    <text name="skin-4" fontSize="10" color="#4444ff" cursor="pointer" padding="2" borderWidth="1" borderColor="#333333" borderRadius="2">[ ] Frost Blue</text>
+    <text name="skin-5" fontSize="10" color="#44ff44" cursor="pointer" padding="2" borderWidth="1" borderColor="#333333" borderRadius="2">[ ] Toxic Green</text>
+    <text name="skin-6" fontSize="10" color="#ffaa00" cursor="pointer" padding="2" borderWidth="1" borderColor="#333333" borderRadius="2">[ ] Royal Gold</text>
+    <text name="skin-7" fontSize="10" color="#8800ff" cursor="pointer" padding="2" borderWidth="1" borderColor="#333333" borderRadius="2">[ ] Void Purple</text>
+    <text name="skin-8" fontSize="10" color="#ff6600" cursor="pointer" padding="2" borderWidth="1" borderColor="#333333" borderRadius="2">[ ] Inferno</text>
+  </container>
+  <text name="btn-back" fontSize="12" color="#666666" borderWidth="1" borderColor="#666666" padding="4" paddingLeft="14" paddingRight="14" cursor="pointer" borderRadius="4" marginTop="4" alignSelf="center">BACK</text>
+</container>

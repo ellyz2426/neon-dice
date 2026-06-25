@@ -1,0 +1,3 @@
+<container flexDirection="column" alignItems="center" padding="10">
+  <text name="count-text" fontSize="40" fontWeight="bold" color="#00ffff">3</text>
+</container>

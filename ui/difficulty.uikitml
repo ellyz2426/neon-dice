@@ -1,0 +1,9 @@
+<container flexDirection="column" alignItems="center" gap="8" padding="12">
+  <text fontSize="20" fontWeight="bold" color="#ff00ff">AI DIFFICULTY</text>
+  <container flexDirection="column" gap="5" alignItems="center">
+    <text name="btn-easy" fontSize="14" color="#44ff44" borderWidth="1" borderColor="#44ff44" padding="6" paddingLeft="20" paddingRight="20" cursor="pointer" borderRadius="4">EASY - Casual</text>
+    <text name="btn-medium" fontSize="14" color="#ffaa00" borderWidth="1" borderColor="#ffaa00" padding="6" paddingLeft="20" paddingRight="20" cursor="pointer" borderRadius="4">MEDIUM - Balanced</text>
+    <text name="btn-hard" fontSize="14" color="#ff4444" borderWidth="1" borderColor="#ff4444" padding="6" paddingLeft="20" paddingRight="20" cursor="pointer" borderRadius="4">HARD - Expert</text>
+  </container>
+  <text name="btn-back" fontSize="12" color="#666666" borderWidth="1" borderColor="#666666" padding="4" paddingLeft="14" paddingRight="14" cursor="pointer" borderRadius="4" marginTop="4">BACK</text>
+</container>

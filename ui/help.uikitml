@@ -1,0 +1,30 @@
+<container flexDirection="column" gap="3" padding="8" backgroundColor="#00000088" borderRadius="4">
+  <text fontSize="16" fontWeight="bold" color="#888888">HOW TO PLAY</text>
+  <text fontSize="9" color="#00ffff">-- BROWSER CONTROLS --</text>
+  <text fontSize="8" color="#aaaaaa">Space: Roll dice</text>
+  <text fontSize="8" color="#aaaaaa">1-5: Toggle dice keep</text>
+  <text fontSize="8" color="#aaaaaa">Tab: Open scorecard</text>
+  <text fontSize="8" color="#aaaaaa">Esc/P: Pause</text>
+  <text fontSize="9" color="#00ffff" marginTop="2">-- VR CONTROLS --</text>
+  <text fontSize="8" color="#aaaaaa">Trigger: Roll dice</text>
+  <text fontSize="8" color="#aaaaaa">Point + Trigger: Select dice</text>
+  <text fontSize="8" color="#aaaaaa">B: Pause</text>
+  <text fontSize="9" color="#00ffff" marginTop="2">-- SCORING --</text>
+  <text fontSize="8" color="#aaaaaa">Upper: Sum matching dice (1-6)</text>
+  <text fontSize="8" color="#aaaaaa">Bonus: +35 if upper >= 63</text>
+  <text fontSize="8" color="#aaaaaa">3/4 of Kind: Sum all dice</text>
+  <text fontSize="8" color="#aaaaaa">Full House: 25 pts</text>
+  <text fontSize="8" color="#aaaaaa">Sm Straight: 30 pts (4 seq)</text>
+  <text fontSize="8" color="#aaaaaa">Lg Straight: 40 pts (5 seq)</text>
+  <text fontSize="8" color="#aaaaaa">Yahtzee: 50 pts (5 same)</text>
+  <text fontSize="8" color="#aaaaaa">Chance: Sum all dice</text>
+  <text fontSize="9" color="#ffaa00" marginTop="2">-- MODES --</text>
+  <text fontSize="8" color="#aaaaaa">Solo: Classic 13-round game</text>
+  <text fontSize="8" color="#aaaaaa">VS AI: Beat AI opponent</text>
+  <text fontSize="8" color="#aaaaaa">Speed: 20s per turn</text>
+  <text fontSize="8" color="#aaaaaa">Farkle: Risk/reward rolling</text>
+  <text fontSize="8" color="#aaaaaa">Daily: Same rolls for all</text>
+  <text fontSize="8" color="#aaaaaa">Marathon: Best of 3 games</text>
+  <text fontSize="8" color="#aaaaaa">Zen: No pressure</text>
+  <text name="btn-back" fontSize="12" color="#666666" borderWidth="1" borderColor="#666666" padding="4" paddingLeft="14" paddingRight="14" cursor="pointer" borderRadius="4" marginTop="4" alignSelf="center">BACK</text>
+</container>

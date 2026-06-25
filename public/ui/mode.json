@@ -1,0 +1,344 @@
+{
+  "element": {
+    "sourceTag": "container",
+    "type": "custom",
+    "children": [
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "SELECT MODE"
+        ],
+        "properties": {
+          "fontsize": "20",
+          "fontweight": "bold",
+          "color": "#00ffff"
+        },
+        "dataUid": "uid-2"
+      },
+      {
+        "sourceTag": "container",
+        "type": "custom",
+        "children": [
+          {
+            "sourceTag": "text",
+            "type": "custom",
+            "children": [
+              "SOLO - Classic 13 Rounds"
+            ],
+            "properties": {
+              "name": "btn-solo",
+              "fontsize": "12",
+              "color": "#00ffff",
+              "borderwidth": "1",
+              "bordercolor": "#00ffff",
+              "padding": "5",
+              "paddingleft": "18",
+              "paddingright": "18",
+              "cursor": "pointer",
+              "borderradius": "4"
+            },
+            "dataUid": "uid-4"
+          },
+          {
+            "sourceTag": "text",
+            "type": "custom",
+            "children": [
+              "VS AI - Challenge Opponent"
+            ],
+            "properties": {
+              "name": "btn-vsai",
+              "fontsize": "12",
+              "color": "#ff00ff",
+              "borderwidth": "1",
+              "bordercolor": "#ff00ff",
+              "padding": "5",
+              "paddingleft": "18",
+              "paddingright": "18",
+              "cursor": "pointer",
+              "borderradius": "4"
+            },
+            "dataUid": "uid-5"
+          },
+          {
+            "sourceTag": "text",
+            "type": "custom",
+            "children": [
+              "SPEED - 20s Turn Timer"
+            ],
+            "properties": {
+              "name": "btn-speed",
+              "fontsize": "12",
+              "color": "#ffaa00",
+              "borderwidth": "1",
+              "bordercolor": "#ffaa00",
+              "padding": "5",
+              "paddingleft": "18",
+              "paddingright": "18",
+              "cursor": "pointer",
+              "borderradius": "4"
+            },
+            "dataUid": "uid-6"
+          },
+          {
+            "sourceTag": "text",
+            "type": "custom",
+            "children": [
+              "FARKLE - Risk and Reward"
+            ],
+            "properties": {
+              "name": "btn-farkle",
+              "fontsize": "12",
+              "color": "#ff4444",
+              "borderwidth": "1",
+              "bordercolor": "#ff4444",
+              "padding": "5",
+              "paddingleft": "18",
+              "paddingright": "18",
+              "cursor": "pointer",
+              "borderradius": "4"
+            },
+            "dataUid": "uid-7"
+          },
+          {
+            "sourceTag": "text",
+            "type": "custom",
+            "children": [
+              "DAILY - Seeded Challenge"
+            ],
+            "properties": {
+              "name": "btn-daily",
+              "fontsize": "12",
+              "color": "#00ff88",
+              "borderwidth": "1",
+              "bordercolor": "#00ff88",
+              "padding": "5",
+              "paddingleft": "18",
+              "paddingright": "18",
+              "cursor": "pointer",
+              "borderradius": "4"
+            },
+            "dataUid": "uid-8"
+          },
+          {
+            "sourceTag": "text",
+            "type": "custom",
+            "children": [
+              "MARATHON - Best of 3"
+            ],
+            "properties": {
+              "name": "btn-marathon",
+              "fontsize": "12",
+              "color": "#8888ff",
+              "borderwidth": "1",
+              "bordercolor": "#8888ff",
+              "padding": "5",
+              "paddingleft": "18",
+              "paddingright": "18",
+              "cursor": "pointer",
+              "borderradius": "4"
+            },
+            "dataUid": "uid-9"
+          },
+          {
+            "sourceTag": "text",
+            "type": "custom",
+            "children": [
+              "ZEN - No Pressure"
+            ],
+            "properties": {
+              "name": "btn-zen",
+              "fontsize": "12",
+              "color": "#44ff44",
+              "borderwidth": "1",
+              "bordercolor": "#44ff44",
+              "padding": "5",
+              "paddingleft": "18",
+              "paddingright": "18",
+              "cursor": "pointer",
+              "borderradius": "4"
+            },
+            "dataUid": "uid-10"
+          },
+          {
+            "sourceTag": "text",
+            "type": "custom",
+            "children": [
+              "PRACTICE - Free Rolling"
+            ],
+            "properties": {
+              "name": "btn-practice",
+              "fontsize": "12",
+              "color": "#888888",
+              "borderwidth": "1",
+              "bordercolor": "#888888",
+              "padding": "5",
+              "paddingleft": "18",
+              "paddingright": "18",
+              "cursor": "pointer",
+              "borderradius": "4"
+            },
+            "dataUid": "uid-11"
+          }
+        ],
+        "properties": {
+          "flexdirection": "column",
+          "gap": "4",
+          "alignitems": "center"
+        },
+        "dataUid": "uid-3"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "BACK"
+        ],
+        "properties": {
+          "name": "btn-back",
+          "fontsize": "12",
+          "color": "#666666",
+          "borderwidth": "1",
+          "bordercolor": "#666666",
+          "padding": "4",
+          "paddingleft": "14",
+          "paddingright": "14",
+          "cursor": "pointer",
+          "borderradius": "4",
+          "margintop": "4"
+        },
+        "dataUid": "uid-12"
+      }
+    ],
+    "properties": {
+      "flexdirection": "column",
+      "alignitems": "center",
+      "gap": "6",
+      "padding": "10"
+    },
+    "dataUid": "uid-1"
+  },
+  "classes": {},
+  "ranges": {
+    "uid-1": {
+      "start": {
+        "line": 0,
+        "column": 0
+      },
+      "end": {
+        "line": 13,
+        "column": 12
+      }
+    },
+    "uid-2": {
+      "start": {
+        "line": 1,
+        "column": 2
+      },
+      "end": {
+        "line": 1,
+        "column": 74
+      }
+    },
+    "uid-3": {
+      "start": {
+        "line": 2,
+        "column": 2
+      },
+      "end": {
+        "line": 11,
+        "column": 14
+      }
+    },
+    "uid-4": {
+      "start": {
+        "line": 3,
+        "column": 4
+      },
+      "end": {
+        "line": 3,
+        "column": 206
+      }
+    },
+    "uid-5": {
+      "start": {
+        "line": 4,
+        "column": 4
+      },
+      "end": {
+        "line": 4,
+        "column": 208
+      }
+    },
+    "uid-6": {
+      "start": {
+        "line": 5,
+        "column": 4
+      },
+      "end": {
+        "line": 5,
+        "column": 205
+      }
+    },
+    "uid-7": {
+      "start": {
+        "line": 6,
+        "column": 4
+      },
+      "end": {
+        "line": 6,
+        "column": 208
+      }
+    },
+    "uid-8": {
+      "start": {
+        "line": 7,
+        "column": 4
+      },
+      "end": {
+        "line": 7,
+        "column": 207
+      }
+    },
+    "uid-9": {
+      "start": {
+        "line": 8,
+        "column": 4
+      },
+      "end": {
+        "line": 8,
+        "column": 206
+      }
+    },
+    "uid-10": {
+      "start": {
+        "line": 9,
+        "column": 4
+      },
+      "end": {
+        "line": 9,
+        "column": 198
+      }
+    },
+    "uid-11": {
+      "start": {
+        "line": 10,
+        "column": 4
+      },
+      "end": {
+        "line": 10,
+        "column": 209
+      }
+    },
+    "uid-12": {
+      "start": {
+        "line": 12,
+        "column": 2
+      },
+      "end": {
+        "line": 12,
+        "column": 198
+      }
+    }
+  }
+}

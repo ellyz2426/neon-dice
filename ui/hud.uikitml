@@ -1,0 +1,26 @@
+<container flexDirection="row" gap="12" padding="6" backgroundColor="#00000088" borderRadius="4">
+  <container flexDirection="column" alignItems="center">
+    <text fontSize="8" color="#888888">TURN</text>
+    <text name="turn-display" fontSize="14" fontWeight="bold" color="#00ffff">1/13</text>
+  </container>
+  <container flexDirection="column" alignItems="center">
+    <text fontSize="8" color="#888888">ROLLS</text>
+    <text name="rolls-display" fontSize="14" fontWeight="bold" color="#ffaa00">3</text>
+  </container>
+  <container flexDirection="column" alignItems="center">
+    <text fontSize="8" color="#888888">SCORE</text>
+    <text name="score-display" fontSize="14" fontWeight="bold" color="#00ff88">0</text>
+  </container>
+  <container flexDirection="column" alignItems="center">
+    <text fontSize="8" color="#888888">MODE</text>
+    <text name="mode-display" fontSize="10" color="#ff00ff">SOLO</text>
+  </container>
+  <container name="timer-box" flexDirection="column" alignItems="center">
+    <text fontSize="8" color="#888888">TIME</text>
+    <text name="timer-display" fontSize="14" fontWeight="bold" color="#ff4444">--</text>
+  </container>
+  <container name="ai-score-box" flexDirection="column" alignItems="center">
+    <text fontSize="8" color="#888888">AI</text>
+    <text name="ai-score-display" fontSize="14" fontWeight="bold" color="#ff00ff">0</text>
+  </container>
+</container>

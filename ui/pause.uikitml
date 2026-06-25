@@ -1,0 +1,5 @@
+<container flexDirection="column" alignItems="center" gap="8" padding="12" backgroundColor="#000000cc" borderRadius="4">
+  <text fontSize="20" fontWeight="bold" color="#ffaa00">PAUSED</text>
+  <text name="btn-resume" fontSize="14" color="#00ffff" borderWidth="1" borderColor="#00ffff" padding="6" paddingLeft="20" paddingRight="20" cursor="pointer" borderRadius="4">RESUME</text>
+  <text name="btn-quit" fontSize="14" color="#ff4444" borderWidth="1" borderColor="#ff4444" padding="6" paddingLeft="20" paddingRight="20" cursor="pointer" borderRadius="4">QUIT</text>
+</container>

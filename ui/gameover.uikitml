@@ -1,0 +1,14 @@
+<container flexDirection="column" alignItems="center" gap="5" padding="10" backgroundColor="#00000088" borderRadius="4">
+  <text name="result-title" fontSize="20" fontWeight="bold" color="#00ffff">GAME OVER</text>
+  <text name="result-mode" fontSize="10" color="#888888">Solo</text>
+  <text name="result-score" fontSize="24" fontWeight="bold" color="#ffaa00">0</text>
+  <text name="result-upper" fontSize="10" color="#44ff44">Upper: 0 | Bonus: No</text>
+  <text name="result-lower" fontSize="10" color="#ff00ff">Lower: 0</text>
+  <text name="result-yahtzees" fontSize="10" color="#ff8800">Yahtzees: 0</text>
+  <text name="result-best" fontSize="10" color="#888888">Best: 0</text>
+  <text name="result-rating" fontSize="14" fontWeight="bold" color="#00ffff">Rating: C</text>
+  <container flexDirection="row" gap="8" marginTop="4">
+    <text name="btn-rematch" fontSize="12" color="#00ffff" borderWidth="1" borderColor="#00ffff" padding="5" paddingLeft="14" paddingRight="14" cursor="pointer" borderRadius="4">REMATCH</text>
+    <text name="btn-menu" fontSize="12" color="#888888" borderWidth="1" borderColor="#888888" padding="5" paddingLeft="14" paddingRight="14" cursor="pointer" borderRadius="4">MENU</text>
+  </container>
+</container>

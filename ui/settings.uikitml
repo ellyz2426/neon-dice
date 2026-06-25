@@ -1,0 +1,28 @@
+<container flexDirection="column" gap="5" padding="10" backgroundColor="#00000088" borderRadius="4">
+  <text fontSize="16" fontWeight="bold" color="#8888ff">SETTINGS</text>
+  <container flexDirection="row" gap="4" alignItems="center">
+    <text fontSize="10" color="#aaaaaa">Master:</text>
+    <text name="btn-master-down" fontSize="12" color="#8888ff" cursor="pointer" padding="2">-</text>
+    <text name="master-vol" fontSize="10" color="#ffffff">100%</text>
+    <text name="btn-master-up" fontSize="12" color="#8888ff" cursor="pointer" padding="2">+</text>
+  </container>
+  <container flexDirection="row" gap="4" alignItems="center">
+    <text fontSize="10" color="#aaaaaa">SFX:</text>
+    <text name="btn-sfx-down" fontSize="12" color="#8888ff" cursor="pointer" padding="2">-</text>
+    <text name="sfx-vol" fontSize="10" color="#ffffff">100%</text>
+    <text name="btn-sfx-up" fontSize="12" color="#8888ff" cursor="pointer" padding="2">+</text>
+  </container>
+  <container flexDirection="row" gap="4" alignItems="center">
+    <text fontSize="10" color="#aaaaaa">Music:</text>
+    <text name="btn-music-down" fontSize="12" color="#8888ff" cursor="pointer" padding="2">-</text>
+    <text name="music-vol" fontSize="10" color="#ffffff">100%</text>
+    <text name="btn-music-up" fontSize="12" color="#8888ff" cursor="pointer" padding="2">+</text>
+  </container>
+  <container flexDirection="row" gap="4" alignItems="center">
+    <text fontSize="10" color="#aaaaaa">Theme:</text>
+    <text name="btn-theme-prev" fontSize="12" color="#8888ff" cursor="pointer" padding="2"><</text>
+    <text name="theme-name" fontSize="10" color="#ffffff">Neon Holodeck</text>
+    <text name="btn-theme-next" fontSize="12" color="#8888ff" cursor="pointer" padding="2">></text>
+  </container>
+  <text name="btn-back" fontSize="12" color="#666666" borderWidth="1" borderColor="#666666" padding="4" paddingLeft="14" paddingRight="14" cursor="pointer" borderRadius="4" marginTop="4" alignSelf="center">BACK</text>
+</container>
