@@ -1,0 +1,76 @@
+{
+  "element": {
+    "sourceTag": "container",
+    "type": "custom",
+    "children": [
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Category"
+        ],
+        "properties": {
+          "name": "result-cat",
+          "fontsize": "10",
+          "color": "#888888"
+        },
+        "dataUid": "uid-2"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "+25"
+        ],
+        "properties": {
+          "name": "result-pts",
+          "fontsize": "18",
+          "fontweight": "bold",
+          "color": "#ffaa00"
+        },
+        "dataUid": "uid-3"
+      }
+    ],
+    "properties": {
+      "flexdirection": "column",
+      "alignitems": "center",
+      "padding": "6",
+      "backgroundcolor": "#00000088",
+      "borderradius": "4"
+    },
+    "dataUid": "uid-1"
+  },
+  "classes": {},
+  "ranges": {
+    "uid-1": {
+      "start": {
+        "line": 0,
+        "column": 0
+      },
+      "end": {
+        "line": 3,
+        "column": 12
+      }
+    },
+    "uid-2": {
+      "start": {
+        "line": 1,
+        "column": 2
+      },
+      "end": {
+        "line": 1,
+        "column": 71
+      }
+    },
+    "uid-3": {
+      "start": {
+        "line": 2,
+        "column": 2
+      },
+      "end": {
+        "line": 2,
+        "column": 84
+      }
+    }
+  }
+}
